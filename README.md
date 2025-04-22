@@ -1,1 +1,1 @@
-# 3DGS-for-Autonomous-Driving
+# 3DGS for Autonomous Driving
